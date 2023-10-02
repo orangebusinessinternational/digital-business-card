@@ -4,7 +4,8 @@ var titles = [
     'International Business',
     'Orange Business Services'
 ]
-var name = "Mahmoud Ibrahim"
+var name = "Mona Ashour"
+var responsibilty = "Responsible for managing International Automation team"
 
 var titlesDiv = document.getElementsByClassName("jobTitlesDiv")[0]
 for(var i=0; i<titles.length; i++) {
@@ -17,4 +18,4 @@ var fullname = document.getElementById("fullName")
 fullname.innerHTML = name
 
 var responsibiltyP = document.getElementById("responsibiltyP")
-responsibiltyP.innerHTML = "Responsible for this and that"
+responsibiltyP.innerHTML = responsibilty
