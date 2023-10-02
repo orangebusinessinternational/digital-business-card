@@ -117,7 +117,7 @@ p{
     }
     .responsibiltyDiv{
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         row-gap: 0.5vh;
     }
 }
