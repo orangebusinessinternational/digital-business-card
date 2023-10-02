@@ -1,12 +1,79 @@
 <!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Digital Business Card</title>
-</head>
-<body>
-	<a href='www.twitter.com'>twitter</a>
-	<a href="./contacts.vcs">contacts</a>
-</body>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <link rel="stylesheet" type="text/css" href="./card.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <title>Card</title>
+    </head>
+    <body>
+        <div class="parentContainer">
+            <div class="cardMainDiv">
+                <div class="logoDiv"> <img src="/static/images/orange_log.png" width="100" height="100"> </div>
+                <div class="infoDiv">
+                    <label class="fullNameLabel" id="fullName"></label>
+                    <br>
+                    <div class="jobTitlesDiv">
+                        <!-- <label>
+                            IB Automation </label>
+                        <label>Orange Business Services</label>
+                        <label>International Business</label>
+                        <label>Intl Business & Sales Ops</label> -->
+    
+    
+                    </div>
+                    
+    
+                </div>
+                <div class="contactInfoDiv">
+                    <div class="contactInfoCardDiv">
+                        <a class="icons" href="/media/vcards/ybxp1015.vcf"><i class="fa fa-phone "  style=" color: gray;"></i></a>
+                        <p id="phoneNumberP" >01008112844</p>
+    
+                    </div>
+                    <div class="contactInfoCardDiv">
+                        <a class="icons" href="mailto:mahmoud.k.ibrahim.ext@orange.com"><i class="fa fa-envelope" style=" color: gray;"></i>
+                        </a>
+                        <p id="emailP" class="emailP" >ziadayman9901@gmail.com</p>
+    
+                    </div>
+                    <div class="contactInfoCardDiv">
+                        <a class="icons" id="locationLink" href="https://www.google.com/maps/search/Cairo,Egypt: CityStars MSC, Cairo, Egypt" target="_blank"><i class="fa fa-map-marker" style=" color: gray;"></i></a>
+                        <p >Location</p>
+    
+                    </div>
+    
+                </div>
+                <div style=" display: flex; justify-content: center; align-items: center; position: relative;">
+                    <p id="responsibiltyP" style="color: grey; text-align: center; font-weight: bold; word-wrap: break-word;width: 80%"></p>
+                </div>
+                <div class="responsibiltyDiv">
+                    <div class="contactInfoCardDiv">
+                        <a class="icons" target="_blank" href="https://plazza.orange.com/people/mahmoud.k.ibrahim.ext@orange.com">
+                            <img class="contact-image" src="/static/images/Plazza.png" width="75" height="75">
+                        </a>
+                        <p >Plazza</p>
+    
+                    </div>
+                    <div class="contactInfoCardDiv">
+                        <a class="icons" target="_blank" href="https://www.twitter.com/mahmoud"><i class="fa fa-twitter" style="color: gray;"></i></a>
+                        <p >Twitter</p>
+    
+                    </div>
+                    <div class="contactInfoCardDiv">
+                        <a class="icons" target="_blank" href="https://www.linkedin.com/mahmoud"><i class="fa fa-linkedin-square" style="color: gray;"></i></a>
+                        <p >LinkedIn</p>
+    
+                    </div>
+    
+                </div>
+                <div class="ib-footer">Powered by  <a style="color:#ff7900;" target="_blank" href="https://plazza.orange.com/community/country/obs/ib/trans/international-sales/ib-innovation/ib-digital-data-hub"> International Data & Automation</a></div>
+    
+            </div>
+        </div>
+
+    </body>
+    <script src="./card.js"></script>
 </html>
