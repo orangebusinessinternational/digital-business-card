@@ -48,10 +48,7 @@
     flex-direction: row;
     column-gap: 4vw;
     justify-content: space-evenly;
-    /* align-items: center; */
     position: relative;
-    
-    
 }
 .contactInfoCardDiv{
     display: flex; 
