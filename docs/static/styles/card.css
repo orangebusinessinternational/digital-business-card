@@ -1,3 +1,9 @@
+body{
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+    text-align: left;
+}
 .parentContainer{
     display: flex;
     justify-content: center;
@@ -8,19 +14,16 @@
 }
 .cardMainDiv{
     position: relative;
-    min-height: 85vh;
+    min-height: 65vh;
     height: fit-content;
-    width: 70vw;
-    top: 5vh;
+    width: 90vw;
+    top: 15vh;
     display: flex;
     flex-direction: column;
-    row-gap: 8vh;
-    padding: 2vw;
-    border: 5px solid black;
+    padding: 8vw;
+    border: 2px solid black;
     align-self: center;
     justify-content: space-between;
-    /* align-items: center;
-    justify-content: center; */
 }
 .logoDiv{
     display: flex;
@@ -31,7 +34,6 @@
 .infoDiv{
     display: flex;
     flex-direction: column;
-    row-gap: 0.5vh;
     position: relative;
     
 
@@ -71,6 +73,8 @@
     display: flex;
     justify-content: center;
     text-align: center;
+    color: black;
+    font-size: bold;
 }
 .fullNameLabel{
     font-size: 1.7rem;
@@ -88,18 +92,31 @@ p{
 }
 @media screen and (max-width:500px) {
     .jobTitlesDiv{
-        font-size: 1.1rem;
+        font-size: 1rem;
+        padding-left: 3.5vw;
     }
     .fullNameLabel{
-        font-size: 1.3rem;
+        font-size: 1.2rem;
+        padding-left: 3vw;
     }
     p{
         font-size: 1rem;
         word-wrap: break-word;
     }
+    #responsibiltyP{
+        color: grey;
+        text-align: left;
+        font-weight: bold;
+        word-wrap: break-word;
+        width: 100%;
+        font-size: 0.8rem;
+        padding-left: 3.5vw;
+    }
     
     .ib-footer{
         font-size: 0.8rem;
+        color: black;
+        font-size: bold;
     }
     .contactInfoDiv{
         display: flex;
@@ -116,9 +133,7 @@ p{
         font-size: 1.2rem;
     }
     .responsibiltyDiv{
-        display: flex;
-        flex-direction: row;
-        row-gap: 0.5vh;
+       
     }
     .contact-image{
         height:25px;
