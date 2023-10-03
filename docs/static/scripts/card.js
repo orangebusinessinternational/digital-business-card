@@ -1,9 +1,6 @@
 var titles = [
-    'Managing Consultant - RPA',
-    'Intl Professional Svcs',
-    'Intl Sales',
-    'International Business',
-    'Orange Business Services',
+    'Hyperautomation Practice Lead',
+    'GPS (Global Professional Services)',
 ]
 var name = "Neha Prasad"
 var responsibilty = 'Global Hyperautomation Practice Lead I Value Driven Digital Transformation I Business Innovation & Automation Services'
@@ -20,3 +17,13 @@ fullname.innerHTML = name
 
 var responsibiltyP = document.getElementById("responsibiltyP")
 responsibiltyP.innerHTML = responsibilty
+
+
+/*
+    'Managing Consultant - RPA',
+    'Intl Professional Svcs',
+    'Intl Sales',
+    'International Business',
+    'Orange Business Services',
+
+*/
