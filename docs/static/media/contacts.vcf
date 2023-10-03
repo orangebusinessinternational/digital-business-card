@@ -1,7 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
-EMAIL;TYPE=INTERNET:mona.ashour@orange.com
-FN:Mona Ashour
-N:Ashour;Mona;;;
+EMAIL;TYPE=INTERNET:neha.prasad@orange.com
+FN:Neha Prasad
+N:Prasad;Neha;;;
 TEL;TYPE=Work:0123456789
 END:VCARD

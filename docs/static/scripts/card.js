@@ -1,11 +1,12 @@
 var titles = [
-    'IB Automation',
-    'Intl Business & Sales Ops',
+    'Managing Consultant - RPA',
+    'Intl Professional Svcs',
+    'Intl Sales',
     'International Business',
-    'Orange Business Services'
+    'Orange Business Services',
 ]
-var name = "Mona Ashour"
-var responsibilty = "Responsible for managing International Automation team"
+var name = "Neha Prasad"
+var responsibilty = 'Global Hyperautomation Practice Lead I Value Driven Digital Transformation I Business Innovation & Automation Services'
 
 var titlesDiv = document.getElementsByClassName("jobTitlesDiv")[0]
 for(var i=0; i<titles.length; i++) {
