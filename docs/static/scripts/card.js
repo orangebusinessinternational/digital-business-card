@@ -1,8 +1,8 @@
 var titles = [
     'Hyperautomation Practice Lead',
-    'GPS (Global Professional Services)',
+    'Orange Business',
 ]
-var name = "Neha Prasad"
+var name = "Neha PRASAD"
 var responsibilty = 'Global Hyperautomation Practice Lead I Value Driven Digital Transformation I Business Innovation & Automation Services'
 
 var titlesDiv = document.getElementsByClassName("jobTitlesDiv")[0]

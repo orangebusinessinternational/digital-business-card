@@ -14,10 +14,10 @@ body{
 }
 .cardMainDiv{
     position: relative;
-    min-height: 65vh;
+    min-height: 75vh;
     height: fit-content;
     width: 90vw;
-    top: 15vh;
+    top: 10vh;
     display: flex;
     flex-direction: column;
     padding: 8vw;
