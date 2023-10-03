@@ -24,6 +24,7 @@ body{
     border: 2px solid black;
     align-self: center;
     justify-content: space-between;
+    row-gap: 4vw;
 }
 .logoDiv{
     display: flex;
