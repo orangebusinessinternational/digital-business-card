@@ -22,6 +22,6 @@ var linkedinLink = document.getElementById("linkedinLink")
 var email = document.getElementById("locationLink")
 
 fullname.innerHTML = name
-responsibiltyP.innerHTML = responsibilty
+responsibiltyP.innerHTML = responsibility
 linkedinLink.href = linkedIn
 email.href = mailto
