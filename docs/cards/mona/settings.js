@@ -1,5 +1,5 @@
 var name = "Mona ASHOUR"
-var responsibilty = 'Heading International Data & Automation team, one two three four five six seven eight'
+var responsibilty = 'Head of International Digital and Automation with 20+ years of global IT experience, excels in Agile Project Management, Business Analysis, and People Management. She fosters vital partnerships, supports digital transformation, and adds a creative flair, aligning designs with brand identity'
 var linkedIn = "https://eg.linkedin.com/in/mona-ashour-61570522"
 var mailto = "mailto:mona.ashour@orange.com"
 var titles = [
