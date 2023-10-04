@@ -1,0 +1,27 @@
+var name = "Mona ASHOUR"
+var responsibilty = 'Heading International Data & Automation team, one two three four five six seven eight'
+var linkedIn = "https://eg.linkedin.com/in/mona-ashour-61570522"
+var mailto = "mailto:mona.ashour@orange.com"
+var titles = [
+    'International Automation Head',
+    'International Zone',
+    'Orange Business',
+]
+
+
+var titlesDiv = document.getElementsByClassName("jobTitlesDiv")[0]
+for(var i=0; i<titles.length; i++) {
+    var label = document.createElement("label")
+    label.innerHTML = titles[i]
+    titlesDiv.appendChild(label)
+}
+
+var fullname = document.getElementById("fullName")
+var responsibiltyP = document.getElementById("responsibiltyP")
+var linkedinLink = document.getElementById("linkedinLink")
+var email = document.getElementById("locationLink")
+
+fullname.innerHTML = name
+responsibiltyP.innerHTML = responsibilty
+linkedinLink.href = linkedIn
+email.href = mailto
