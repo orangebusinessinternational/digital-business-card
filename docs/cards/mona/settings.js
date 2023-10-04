@@ -1,5 +1,5 @@
 var name = "Mona ASHOUR"
-var responsibilty = '20+ years of global IT experience. She fosters & supports international digital transformation, and adds a creative flair, aligning designs with brand identity'
+var responsibilty = '20+ years of global IT experience, fostering & supporting international digital transformation while adding a creative flair, aligning designs with brand identity'
 var linkedIn = "https://eg.linkedin.com/in/mona-ashour-61570522"
 var mailto = "mailto:mona.ashour@orange.com"
 var titles = [
