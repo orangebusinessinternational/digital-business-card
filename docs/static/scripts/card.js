@@ -18,12 +18,8 @@ fullname.innerHTML = name
 var responsibiltyP = document.getElementById("responsibiltyP")
 responsibiltyP.innerHTML = responsibilty
 
+var linkedinLink = document.getElementById("linkedinLink")
+linkedinLink.href = "https://www.linkedin.com/in/neha-prasad-49555935"
 
-/*
-    'Managing Consultant - RPA',
-    'Intl Professional Svcs',
-    'Intl Sales',
-    'International Business',
-    'Orange Business Services',
-
-*/
+var email = document.getElementById("locationLink")
+email.href = "mailto:neha.prasad@orange.com"
