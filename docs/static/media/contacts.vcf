@@ -1,7 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
-EMAIL;TYPE=INTERNET:neha.prasad@orange.com
-FN:Neha Prasad
-N:Prasad;Neha;;;
-TEL;TYPE=Work:+919953551134
+N:Prasad;Neha
+FN:Neha PRASAD
+ORG:Orange Business 
+GEO:30.0729,31.3458
+TEL;CELL:+91 9953551134
+EMAIL:neha.prasad@orange.com
+URL;TYPE=linkedin:https://www.linkedin.com/in/neha-prasad-49555935/
+PHOTO;VALUE=URL;TYPE=jpeg:https://github.com/orangebusinessinternational/digital-business-card/blob/3b099f2328f8661d6849d0fa8a0010efc9d1d33b/docs/static/images/Neha.jpg
+URL:https://www.orange-business.com
 END:VCARD
