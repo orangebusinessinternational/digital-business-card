@@ -1,9 +1,9 @@
-var name = "Mona ASHOUR"
-var responsibilty = 'Heading International Data & Automation team, one two three four five six seven eight'
-var linkedIn = "https://eg.linkedin.com/in/mona-ashour-61570522"
-var mailto = "mailto:mona.ashour@orange.com"
+var name = "Katya SMIRNOVA"
+var responsibility = 'Head of Data & Automation | International | Business Services'
+var linkedIn = "https://www.linkedin.com/in/katya-smirnova-509553106/"
+var mailto = "mailto:ekaterina.smirnova@orange.com"
 var titles = [
-    'International Automation Head',
+    'International Data & Automation',
     'International Zone',
     'Orange Business',
 ]
