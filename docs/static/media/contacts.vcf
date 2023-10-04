@@ -7,6 +7,6 @@ GEO:28.49362063415965, 77.08831426603643
 TEL;CELL:+91 9953551134
 EMAIL:neha.prasad@orange.com
 URL;TYPE=linkedin:https://www.linkedin.com/in/neha-prasad-49555935/
-PHOTO;VALUE=URL;TYPE=jpeg:https://raw.githubusercontent.com/orangebusinessinternational/digital-business-card/3b099f2328f8661d6849d0fa8a0010efc9d1d33b/docs/static/images/Neha.jpg
+PHOTO;ENCODING=b;TYPE=jpg:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL29yYW5nZWJ1c2luZXNzaW50ZXJuYXRpb25hbC9kaWdpdGFsLWJ1c2luZXNzLWNhcmQvM2IwOTlmMjMyOGY4NjYxZDY4NDlkMGZhOGEwMDEwZWZjOWQxZDMzYi9kb2NzL3N0YXRpYy9pbWFnZXMvTmVoYS5qcGc=
 URL:https://www.orange-business.com
 END:VCARD
