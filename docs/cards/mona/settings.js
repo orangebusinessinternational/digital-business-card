@@ -1,9 +1,9 @@
 var name = "Mona ASHOUR"
-var responsibility = 'A leader with 20+ years of global IT experience, who fosters international digital transformation to drive efficiency and blends creativity into design work'
+var responsibility = 'A leader with over two decades of global IT expertise, catalyzing international digital transformations to enhance efficiency and infuse innovative creativity'
 var linkedIn = "https://eg.linkedin.com/in/mona-ashour-61570522"
 var mailto = "mailto:mona.ashour@orange.com"
 var titles = [
-    'International Automation Head',
+    'Head of Automation',
     'International Zone',
     'Orange Business',
 ]
