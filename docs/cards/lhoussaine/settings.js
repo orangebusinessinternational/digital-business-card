@@ -3,8 +3,7 @@ var responsibility = 'Head of Data & Automation | International | Business Servi
 var linkedIn = "https://www.linkedin.com/in/lhoussaine-bouamraoui-3735364b/"
 var mailto = "mailto:lhoussaine.bouamraoui@orange.com"
 var titles = [
-    'International Data & Automation',
-    'International Zone',
+    'Head of CS&O Regional Ops'
     'Orange Business',
 ]
 
