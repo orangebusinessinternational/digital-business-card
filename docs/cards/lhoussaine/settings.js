@@ -1,7 +1,7 @@
 var name = "Lhoussaine BOUAMRAOUI"
 var responsibility = 'Head of Data & Automation | International | Business Services'
-var linkedIn = "https://www.linkedin.com/in/katya-smirnova-509553106/"
-var mailto = "mailto:ekaterina.smirnova@orange.com"
+var linkedIn = "https://www.linkedin.com/in/lhoussaine-bouamraoui-3735364b/"
+var mailto = "mailto:lhoussaine.bouamraoui@orange.com"
 var titles = [
     'International Data & Automation',
     'International Zone',
