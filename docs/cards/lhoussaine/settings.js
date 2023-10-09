@@ -1,5 +1,5 @@
 var name = "Lhoussaine BOUAMRAOUI"
-var responsibility = 'Head of Data & Automation | International | Business Services'
+var responsibility = 'Oversees Global Delivery and Operations  as Site Leader of Cairo Major Customer Center'
 var linkedIn = "https://www.linkedin.com/in/lhoussaine-bouamraoui-3735364b/"
 var mailto = "mailto:lhoussaine.bouamraoui@orange.com"
 var titles = [
