@@ -1,9 +1,13 @@
+var name = "Lhoussaine BOUAMRAOUI"
+var responsibility = 'Head of Data & Automation | International | Business Services'
+var linkedIn = "https://www.linkedin.com/in/katya-smirnova-509553106/"
+var mailto = "mailto:ekaterina.smirnova@orange.com"
 var titles = [
-    'Hyperautomation Practice Lead',
+    'International Data & Automation',
+    'International Zone',
     'Orange Business',
 ]
-var name = "Neha PRASAD"
-var responsibilty = 'Global Hyperautomation Practice Lead I Value Driven Digital Transformation I Business Innovation & Automation Services'
+
 
 var titlesDiv = document.getElementsByClassName("jobTitlesDiv")[0]
 for(var i=0; i<titles.length; i++) {
@@ -13,13 +17,11 @@ for(var i=0; i<titles.length; i++) {
 }
 
 var fullname = document.getElementById("fullName")
-fullname.innerHTML = name
-
 var responsibiltyP = document.getElementById("responsibiltyP")
-responsibiltyP.innerHTML = responsibilty
-
 var linkedinLink = document.getElementById("linkedinLink")
-linkedinLink.href = "https://www.linkedin.com/in/neha-prasad-49555935"
-
 var email = document.getElementById("locationLink")
-email.href = "mailto:neha.prasad@orange.com"
+
+fullname.innerHTML = name
+responsibiltyP.innerHTML = responsibility
+linkedinLink.href = linkedIn
+email.href = mailto

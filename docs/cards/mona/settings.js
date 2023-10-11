@@ -1,9 +1,12 @@
+var name = "Mona ASHOUR"
+var responsibility = 'A leader with over two decades of global IT expertise, catalyzing international digital transformations to enhance efficiency and infuse innovative creativity'
+var linkedIn = "https://eg.linkedin.com/in/mona-ashour-61570522"
+var mailto = "mailto:mona.ashour@orange.com"
 var titles = [
-    'Hyperautomation Practice Lead',
+    'International Automation Head',
     'Orange Business',
 ]
-var name = "Neha PRASAD"
-var responsibilty = 'Global Hyperautomation Practice Lead I Value Driven Digital Transformation I Business Innovation & Automation Services'
+
 
 var titlesDiv = document.getElementsByClassName("jobTitlesDiv")[0]
 for(var i=0; i<titles.length; i++) {
@@ -13,13 +16,11 @@ for(var i=0; i<titles.length; i++) {
 }
 
 var fullname = document.getElementById("fullName")
-fullname.innerHTML = name
-
 var responsibiltyP = document.getElementById("responsibiltyP")
-responsibiltyP.innerHTML = responsibilty
-
 var linkedinLink = document.getElementById("linkedinLink")
-linkedinLink.href = "https://www.linkedin.com/in/neha-prasad-49555935"
-
 var email = document.getElementById("locationLink")
-email.href = "mailto:neha.prasad@orange.com"
+
+fullname.innerHTML = name
+responsibiltyP.innerHTML = responsibility
+linkedinLink.href = linkedIn
+email.href = mailto

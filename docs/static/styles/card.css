@@ -4,6 +4,9 @@ body{
     font-weight: 700;
     text-align: left;
 }
+label {
+    margin-bottom: 0;
+}
 .parentContainer{
     display: flex;
     justify-content: center;
@@ -49,7 +52,7 @@ body{
 .contactInfoDiv{
     display: flex;
     flex-direction: row;
-    column-gap: 4vw;
+    column-gap: 1.5vw;
     justify-content: space-evenly;
     position: relative;
 }
