@@ -1,6 +1,6 @@
 var titles = [
-    'Hyperautomation Practice Lead',
     'Orange Business',
+    'Hyperautomation Practice Lead',
 ]
 var name = "Neha PRASAD"
 var responsibilty = 'Global Hyperautomation Practice Lead I Value Driven Digital Transformation I Business Innovation & Automation Services'

@@ -23,7 +23,7 @@ label {
     top: 10vh;
     display: flex;
     flex-direction: column;
-    padding: 8vw;
+    padding: 8vw 3vw;
     border: 2px solid black;
     align-self: center;
     justify-content: space-between;
@@ -39,7 +39,7 @@ label {
     display: flex;
     flex-direction: column;
     position: relative;
-    
+    margin-top: 6vh;
 
 }
 .jobTitlesDiv{
