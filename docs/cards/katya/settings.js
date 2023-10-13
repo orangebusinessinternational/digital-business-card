@@ -1,4 +1,4 @@
-var name = "Lhoussaine BOUAMRAOUI"
+var name = "Katya SMIRNOVA"
 var responsibility = 'Head of Data & Automation | International | Business Services'
 var linkedIn = "https://www.linkedin.com/in/katya-smirnova-509553106/"
 var mailto = "mailto:ekaterina.smirnova@orange.com"
