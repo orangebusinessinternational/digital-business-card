@@ -3,7 +3,7 @@ var responsibility = 'Automation & Digital Business Consulting | Automation & RP
 var linkedIn = "https://www.linkedin.com/in/dheerajdigitalautomation"
 var mailto = "mailto:dheeraj.saxena@orange.com"
 var titles = [
-    'Automation & Digital Business Consulting ( Automation & RPA )',
+    'Digital Business Consultant',
     'International Consulting - Americas',
     'Orange Business',
 ]
