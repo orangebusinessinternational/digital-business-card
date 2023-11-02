@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Jones;Jeff
+FN:Mike CORR
+ORG:Orange Business
+TEL;CELL:+1 8474004174
+EMAIL:jeff.jones@orange.com
+URL;TYPE=linkedin:https://www.linkedin.com/in/jeff-jones-3174423/
+URL:https://www.orange-business.com
+END:VCARD
