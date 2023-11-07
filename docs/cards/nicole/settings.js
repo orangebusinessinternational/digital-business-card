@@ -3,8 +3,7 @@ var responsibility = ''
 var linkedIn = "https://www.linkedin.com/in/nicole-limbocker-a358b437/"
 var mailto = "mailto:nicole.limbocker@orange.com"
 var titles = [
-    'Sales Director',
-    'West America',
+    'Sales Director – West Coast',
     'Orange Business',
 ]
 
