@@ -1,9 +1,9 @@
-var name = "Miranda Verneulen"
+var name = "Miranda Vermeulen"
 var responsibility = 'Strong conceptual strategist. Ability to process and reproduce complex issues to provide pragmatic business solutions'
 var linkedIn = "https://www.linkedin.com/in/miranda-vermeulen-07355311/"
 var mailto = "mailto:miranda.vermeulen@orange.com"
 var titles = [
-    'Strategic Business Liaison',
+    'Head of Governance/PMO',
     'Orange Business',
 ]
 

@@ -1,10 +1,9 @@
 var name = "Kristof Symons"
-var responsibility = 'Proven competencies in sales, sourcing, professional and integration services, operations and profitability programs in the digital age'
+var responsibility = 'Passionate and Experienced International Sales, Sourcing and Digital Services Leader'
 var linkedIn = "https://www.linkedin.com/in/kristof-symons-b5343a/"
 var mailto = "mailto:kristof.symons@orange.com"
 var titles = [
-    'Executive Vice President',
-    'International Business',
+    'CEO International',
     'Orange Business',
 ]
 
