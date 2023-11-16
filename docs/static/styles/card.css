@@ -1,11 +1,12 @@
 body{
     font-family: 'Helvetica Neue', Arial, sans-serif;
-    font-size: 1rem;
+    font-size: 2rem;
     font-weight: 700;
     text-align: left;
 }
 label {
     margin-bottom: 0;
+    font-size: 2rem;
 }
 .parentContainer{
     display: flex;
@@ -34,6 +35,10 @@ label {
     flex-direction: row;
     justify-content: start;
     align-items: start;
+}
+.logo{
+    width:400px; 
+    height:150px;
 }
 .infoDiv{
     display: flex;
@@ -81,7 +86,7 @@ label {
     font-size: bold;
 }
 .fullNameLabel{
-    font-size: 1.7rem;
+    font-size: 3rem;
      font-weight: bold;
 }
 p{
@@ -93,6 +98,10 @@ p{
 }
 .icons{
     font-size: 3rem;
+}
+.contact-image{
+    width: 6rem;
+    height: 6rem;
 }
 @media screen and (max-width:500px) {
     .jobTitlesDiv{
