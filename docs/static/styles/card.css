@@ -24,7 +24,8 @@ label {
     top: 10vh;
     display: flex;
     flex-direction: column;
-    padding: 8vw 3vw;
+    padding-top: 8vw;
+    padding-inline: 5vw;
     border: 3px solid black;
     align-self: center;
     justify-content: space-between;
@@ -33,19 +34,32 @@ label {
 .logoDiv{
     display: flex;
     flex-direction: row;
-    justify-content: start;
+    justify-content: space-between;
     align-items: start;
 }
 .logo{
-    width:450px; 
-    height:170px;
+    width:200px; 
+    height:200px;
+}
+.toggle-icon{
+    width: 80px;
+    height: 40px;
+}
+.toggleDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.toggleText{
+    font-size: 1.9rem;
+    padding-right: 15px;
 }
 .infoDiv{
     display: flex;
     flex-direction: column;
     position: relative;
     margin-top: 6vh;
-    padding-left: 2vw;
+    /* padding-left: 2vw; */
 }
 .jobTitlesDiv{
     display: flex;
@@ -76,16 +90,25 @@ label {
     justify-content: space-evenly;
     position: relative;
 }
+.responsibiltyDiv2{
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    position: relative;
+}
 .ib-footer{
     display: flex;
-    justify-content: center;
     text-align: center;
+    justify-content: space-between;
+    align-items: center;
     color: black;
     font-size: bold;
+    padding-bottom: 1vh;
 }
 .fullNameLabel{
     font-size: 4rem;
-     font-weight: bold;
+    font-weight: bold;
+    padding-bottom: 2rem;
 }
 p{
     text-align: center;
@@ -103,8 +126,21 @@ p{
     font-size: 2rem;
 }
 .contact-image{
-    width: 7.5rem;
-    height: 7.5rem;
+    width: 7rem;
+    height: 7rem;
+    padding-top: 0;
+}
+.qrDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+.qrText{
+    padding-bottom: 0;
+    margin: 0;
+    font-size: 1.2rem;
 }
 @media screen and (max-width:500px) {
     .jobTitlesDiv{
