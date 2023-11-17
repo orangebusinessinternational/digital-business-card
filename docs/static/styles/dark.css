@@ -30,6 +30,7 @@ label {
     align-self: center;
     justify-content: space-between;
     row-gap: 4vw;
+    background-color: black;
 }
 .logoDiv{
     display: flex;
@@ -44,6 +45,7 @@ label {
 .toggle-icon{
     width: 80px;
     height: 40px;
+    color: #ff7900;
 }
 .toggleDiv{
     display: flex;
@@ -53,6 +55,7 @@ label {
 .toggleText{
     font-size: 1.9rem;
     padding-right: 15px;
+    color: white;
 }
 .infoDiv{
     display: flex;
@@ -101,7 +104,7 @@ label {
     text-align: center;
     justify-content: space-between;
     align-items: center;
-    color: black;
+    color: white;
     font-size: bold;
     padding-bottom: 1vh;
 }
@@ -109,6 +112,7 @@ label {
     font-size: 4rem;
     font-weight: bold;
     padding-bottom: 2rem;
+    color: white;
 }
 p{
     text-align: center;
@@ -124,11 +128,13 @@ p{
     margin-bottom: 0;
     margin-top: 10%;
     font-size: 2rem;
+    color: white;
 }
 .contact-image{
     width: 7rem;
     height: 7rem;
     padding-top: 0;
+    fill: white;
 }
 .qrDiv{
     display: flex;
