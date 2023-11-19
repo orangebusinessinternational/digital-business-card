@@ -11,59 +11,63 @@
     <body>
         <div class="parentContainer">
             <div class="cardMainDiv">
-                <div class="logoDiv"> 
-                    <img src="./static/images/obs_master.png" class="logo"> 
-                    <div class="toggleDiv">
-                        <p class="toggleText">Light mode</p>
-                        <a href="https://orangebusinessinternational.github.io/digital-business-card/lightIndex.pdf">
-                            <img src="./static/images/dark-mode-toggle-icon.png" class="toggle-icon"> 
-                        </a>
+                <div class="topDiv">
+                    <div class="logoDiv"> 
+                        <img src="./static/images/obs_master.png" class="logo"> 
+                        <div class="toggleDiv">
+                            <p class="toggleText">Light mode</p>
+                            <a href="https://orangebusinessinternational.github.io/digital-business-card/lightIndex.pdf">
+                                <img src="./static/images/BC_Black/ToggleLight.png" class="toggle-icon"> 
+                            </a>
+                        </div>
+                    </div>
+                    <div class="infoDiv">
+                        <label class="fullNameLabel" id="fullName"></label>
+                        <div class="jobTitlesDiv"></div>
+                    </div>
+                    <div class="contactInfoDiv">
+                        <div class="contactInfoCardDiv">
+                            <a class="icons" href="./static/media/contacts.vcf">
+                                <img class="contact-image" src="./static/images/BC_White/Call.svg" width="50" height="50">
+                            </a>
+                            <label class="iconsLabel">
+                                Call
+                            </label>
+                        </div>
+                        <div class="contactInfoCardDiv">
+                            <a class="icons" id="linkedinLink" target="_blank">
+                                <img class="contact-image" src="./static/images/BC_Black/LinkedIn.svg" width="50" height="50">
+                            </a>
+                            <label class="iconsLabel">
+                                LinkedIn
+                            </label>
+                        </div>
+                        <div class="contactInfoCardDiv">
+                            <a class="icons" id="locationLink" >
+                                <img class="contact-image" src="./static/images/BC_Black/Email.svg" width="50" height="50">
+                            </a>
+                            <label class="iconsLabel">
+                                Email
+                            </label>
+                        </div>    
+                    </div>
+                    <div class="responsibiltyDiv2">
+                        <p id="responsibiltyP" style="color: grey; font-weight: bold; word-wrap: break-word;width: 100%"></p>
                     </div>
                 </div>
-                <div class="infoDiv">
-                    <label class="fullNameLabel" id="fullName"></label>
-                    <div class="jobTitlesDiv"></div>
-                </div>
-                <div class="contactInfoDiv">
-                    <div class="contactInfoCardDiv">
-                        <a class="icons" href="./static/media/contacts.vcf">
-                            <img class="contact-image" src="./static/images/icons8-whatsapp.svg" width="50" height="50">
-                        </a>
-                        <label class="iconsLabel">
-                            Call
-                        </label>
-                    </div>
-                    <div class="contactInfoCardDiv">
-                        <a class="icons" id="linkedinLink" target="_blank">
-                            <img class="contact-image" src="./static/images/icons8-linkedin.svg" width="50" height="50">
-                        </a>
-                        <label class="iconsLabel">
-                            LinkedIn
-                        </label>
-                    </div>
-                    <div class="contactInfoCardDiv">
-                        <a class="icons" id="locationLink" >
-                            <img class="contact-image" src="./static/images/icons8-circled-envelope-50.png" width="50" height="50">
-                        </a>
-                        <label class="iconsLabel">
-                            Email
-                        </label>
-                    </div>    
-                </div>
-                <div class="responsibiltyDiv2">
-                    <p id="responsibiltyP" style="color: grey; font-weight: bold; word-wrap: break-word;width: 100%"></p>
-                </div>
-                
-                <div class="ib-footer">
-                    <div>
-                        Powered by&nbsp;
-                        <a style="color:#ff7900;text-decoration: underline;" target="_blank" href="https://www.orange-business.com">Orange Business </a>
-                    </div>
-                    <div class="qrDiv">
-                        <p class="qrText">QR Code</p>
-                        <a href="">
-                            <img class="contact-image" src="./static/images/qr-code.png" width="50" height="50">
-                        </a>
+
+                <div class="bottomDiv">
+                    <div class="ib-footer">
+                        <div>
+                            Powered by&nbsp;
+                            <a style="color:#ff7900;text-decoration: underline;" target="_blank" href="https://www.orange-business.com">Orange Business </a>
+                        </div>
+                        <div class="qrDiv">
+                            <p class="qrText">QR Code</p>
+                            <a href="">
+                                <img class="contact-image" src="./static/images/BC_Black/QR.png" width="50" height="50">
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
