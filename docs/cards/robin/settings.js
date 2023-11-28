@@ -3,8 +3,8 @@ var responsibility = 'Experienced VP Communication Services | Strategy, Leader, 
 var linkedIn = "https://www.linkedin.com/in/robin-de-keyser-9359a92/"
 var mailto = "mailto:robin.dekeyser@orange.com"
 var titles = [
-    'Vice President Communication Services',
-    'Europe',
+    'Vice President',
+    'Communication Services Europe',
     'Orange Business',
 ]
 
