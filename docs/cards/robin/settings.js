@@ -1,9 +1,10 @@
-var name = "Kristof Symons"
-var responsibility = 'Passionate and Experienced International Sales, Sourcing and Digital Services Leader'
-var linkedIn = "https://www.linkedin.com/in/kristof-symons-b5343a/"
-var mailto = "mailto:kristof.symons@orange.com"
+var name = "Robin De Keyser"
+var responsibility = 'Experienced VP Communication Services | Strategy, Leader, Innovator, out of the box thinker'
+var linkedIn = "https://www.linkedin.com/in/robin-de-keyser-9359a92/"
+var mailto = "mailto:robin.dekeyser@orange.com"
 var titles = [
-    'CEO International',
+    'Vice President Communication Services',
+    'Europe',
     'Orange Business',
 ]
 
