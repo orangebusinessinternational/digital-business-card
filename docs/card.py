@@ -25,7 +25,7 @@ def generate_qrcode(url, filename, logo=LOGO_IMAGE_FILE):
 
 
 if __name__ == '__main__':
-	url = 'https://orangebusinessinternational.github.io/digital-business-card/cards/wassila/light.pdf'
+	url = 'https://orangebusinessinternational.github.io/digital-business-card/cards/aliette/light.pdf'
 	filename = r'C:\Users\HGWC0974\Desktop\Projects data\business card\qr.jpg'
 
 	generate_qrcode(url, filename)
