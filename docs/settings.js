@@ -1,12 +1,12 @@
-var name = "Aliette MOUSNIER-LOMPRE"
+var name = "Katya SMIRNOVA"
 var responsibility = ''
-var linkedIn = "https://www.linkedin.com/in/aliette-mousnier-lompr%C3%A9-6787114/"
-var mailto = "mailto:aliette.mousnierlompre@orange.com"
+var linkedIn = "https://www.linkedin.com/in/katya-smirnova-509553106/"
+var mailto = "mailto:ekaterina.smirnova@orange.com"
 var titles = [
-    'Top Management',
+    'International Data & Automation',
     'Orange Business',
 ]
-var folderName = "aliette"
+var folderName = "katya"
 var lightMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/light.pdf`
 var darkMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/dark.pdf`
 var vcf = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/contacts.vcf`
