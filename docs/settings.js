@@ -1,12 +1,12 @@
-var name = "Wassila ZITOUNE"
+var name = "Aliette MOUSNIER-LOMPRE"
 var responsibility = ''
-var linkedIn = "https://www.linkedin.com/in/wassila-zitoune-00a38818/"
-var mailto = "mailto:wassila.zitoune@orange.com"
+var linkedIn = "https://www.linkedin.com/in/aliette-mousnier-lompr%C3%A9-6787114/"
+var mailto = "mailto:aliette.mousnierlompre@orange.com"
 var titles = [
-    'Etat Major Global Delivery Operation',
+    'Top Management',
     'Orange Business',
 ]
-var folderName = "wassila"
+var folderName = "aliette"
 var lightMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/light.pdf`
 var darkMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/dark.pdf`
 var vcf = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/contacts.vcf`
