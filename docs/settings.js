@@ -1,12 +1,12 @@
-var name = "Jean-Bernard ORSONI"
+var name = "Kristof Symons"
 var responsibility = ''
-var linkedIn = "https://www.linkedin.com/in/jean-bernard-orsoni-88222729/"
-var mailto = "mailto:jeanbernard.orsoni@orange.com"
+var linkedIn = "https://www.linkedin.com/in/kristof-symons-b5343a/"
+var mailto = "mailto:kristof.symons@orange.com"
 var titles = [
-    'Directeur de la Communication et de la Promotion de lnnovation',
+    'CEO International',
     'Orange Business',
 ]
-var folderName = "jean"
+var folderName = "kristof"
 
 var lightMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/light.pdf`
 var darkMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/dark.pdf`
