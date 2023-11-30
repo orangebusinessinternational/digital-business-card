@@ -83,7 +83,6 @@ label {
     column-gap: 1.5vw;
     justify-content: space-evenly;
     position: relative;
-    padding-bottom: 5vh;
 }
 .contactInfoCardDiv{
     display: flex; 
