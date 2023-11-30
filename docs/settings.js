@@ -1,12 +1,12 @@
-var name = "Aliette MOUSNIER-LOMPRE"
+var name = "Jean-Bernard ORSONI"
 var responsibility = ''
-var linkedIn = "https://www.linkedin.com/in/aliette-mousnier-lompr%C3%A9-6787114/"
-var mailto = "mailto:aliette.mousnierlompre@orange.com"
+var linkedIn = "https://www.linkedin.com/in/jean-bernard-orsoni-88222729/"
+var mailto = "mailto:jeanbernard.orsoni@orange.com"
 var titles = [
-    'VP Chief Executive Officer',
+    'Directeur de la Communication et de la Promotion de lnnovation',
     'Orange Business',
 ]
-var folderName = "aliette"
+var folderName = "jean"
 
 var lightMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/light.pdf`
 var darkMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/dark.pdf`

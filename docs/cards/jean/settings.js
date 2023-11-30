@@ -3,9 +3,15 @@ var responsibility = ''
 var linkedIn = "https://www.linkedin.com/in/jean-bernard-orsoni-88222729/"
 var mailto = "mailto:jeanbernard.orsoni@orange.com"
 var titles = [
-    'Top Management',
+    'Directeur de la Communication et de la Promotion de lnnovation',
     'Orange Business',
 ]
+var folderName = "jean"
+
+var lightMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/light.pdf`
+var darkMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/dark.pdf`
+var vcf = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/contacts.vcf`
+var qr = `https://raw.githubusercontent.com/orangebusinessinternational/digital-business-card/main/docs/cards/${folderName}/qr.jpg`
 
 
 var titlesDiv = document.getElementsByClassName("jobTitlesDiv")[0]
@@ -20,7 +26,21 @@ var responsibiltyP = document.getElementById("responsibiltyP")
 var linkedinLink = document.getElementById("linkedinLink")
 var email = document.getElementById("locationLink")
 
+var lightModeLink = document.getElementById("toLight")
+var darkModeLink = document.getElementById("toDark")
+var vcfLink = document.getElementById("vcf")
+var qrLink = document.getElementById("qr")
+
 fullname.innerHTML = name
 responsibiltyP.innerHTML = responsibility
 linkedinLink.href = linkedIn
 email.href = mailto
+
+if (lightModeLink){
+    lightModeLink.href = lightMode
+}
+if (darkModeLink){
+    darkModeLink.href = darkMode
+}
+vcfLink.href = vcf
+qrLink.href = qr
