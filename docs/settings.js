@@ -1,13 +1,12 @@
-var name = "France Righenzi De Villers"
+var name = "Sandra Servieres"
 var responsibility = ''
-var linkedIn = "https://fr.linkedin.com/in/france-righenzi-orange"
-var mailto = "mailto:france.righenzidevillers@orange.com"
+var linkedIn = "https://fr.linkedin.com/in/sandra-servieres-9579843a"
+var mailto = "mailto:sandra.servieres@orange.com"
 var titles = [
-    'Executive Vice President',
-    'Enterprise Line of Business',
+    'Directrice Financière',
     'Orange Business',
 ]
-var folderName = "france"
+var folderName = "sandra"
 
 var lightMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/light.pdf`
 var darkMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/dark.pdf`
