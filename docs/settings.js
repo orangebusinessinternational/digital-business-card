@@ -1,12 +1,13 @@
-var name = "Kristof Symons"
+var name = "Usman Javaid"
 var responsibility = ''
-var linkedIn = "https://www.linkedin.com/in/kristof-symons-b5343a/"
-var mailto = "mailto:kristof.symons@orange.com"
+var linkedIn = "https://uk.linkedin.com/in/usmanjavaid"
+var mailto = "mailto:usman.javaid@orange.com"
 var titles = [
-    'CEO International',
+    'Board Member',
+    'Global Chief Products & Marketing Officer',
     'Orange Business',
 ]
-var folderName = "kristof"
+var folderName = "usman"
 
 var lightMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/light.pdf`
 var darkMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/dark.pdf`
