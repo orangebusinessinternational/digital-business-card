@@ -1,13 +1,12 @@
-var name = "Usman Javaid"
+var name = "Eka Kamushadze"
 var responsibility = ''
-var linkedIn = "https://uk.linkedin.com/in/usmanjavaid"
-var mailto = "mailto:usman.javaid@orange.com"
+var linkedIn = "https://uk.linkedin.com/in/eka-kamushadze-0463348"
+var mailto = "mailto:eka.kamushadze@orange.com"
 var titles = [
-    'Board Member',
-    'Global Chief Products & Marketing Officer',
+    'EVP Major Programs of Transformation',
     'Orange Business',
 ]
-var folderName = "usman"
+var folderName = "eka"
 
 var lightMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/light.pdf`
 var darkMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/dark.pdf`
