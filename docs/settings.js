@@ -1,12 +1,13 @@
-var name = "Eka Kamushadze"
+var name = "France Righenzi De Villers"
 var responsibility = ''
-var linkedIn = "https://uk.linkedin.com/in/eka-kamushadze-0463348"
-var mailto = "mailto:eka.kamushadze@orange.com"
+var linkedIn = "https://fr.linkedin.com/in/france-righenzi-orange"
+var mailto = "mailto:france.righenzidevillers@orange.com"
 var titles = [
-    'EVP Major Programs of Transformation',
+    'Executive Vice President',
+    'Enterprise Line of Business',
     'Orange Business',
 ]
-var folderName = "eka"
+var folderName = "france"
 
 var lightMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/light.pdf`
 var darkMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/dark.pdf`
