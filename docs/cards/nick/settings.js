@@ -1,12 +1,12 @@
-var name = "Christoph Mueller-Dott"
+var name = "Nick Lambert"
 var responsibility = ''
-var linkedIn = "https://www.linkedin.com/in/christophmuellerdott/"
-var mailto = "mailto:christoph.muellerdott@orange.com"
+var linkedIn = "https://www.linkedin.com/in/nick-lambert-8bb7177/"
+var mailto = "mailto:nick.lambert@orange.com"
 var titles = [
-    'Head of International Transformation',
+    'President Asia Pacific',
     'Orange Business',
 ]
-var folderName = "christoph"
+var folderName = "nick"
 
 var lightMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/light.pdf`
 var darkMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/dark.pdf`

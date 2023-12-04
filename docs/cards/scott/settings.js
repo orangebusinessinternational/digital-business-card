@@ -1,12 +1,12 @@
-var name = "Christoph Mueller-Dott"
+var name = "Scott Williams"
 var responsibility = ''
-var linkedIn = "https://www.linkedin.com/in/christophmuellerdott/"
-var mailto = "mailto:christoph.muellerdott@orange.com"
+var linkedIn = "https://www.linkedin.com/in/scottwilliamstx/"
+var mailto = "mailto:scott.williams@orange.com"
 var titles = [
-    'Head of International Transformation',
+    'President- Americas',
     'Orange Business',
 ]
-var folderName = "christoph"
+var folderName = "scott"
 
 var lightMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/light.pdf`
 var darkMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/dark.pdf`
