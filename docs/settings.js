@@ -1,12 +1,12 @@
-var name = "Christoph Mueller-Dott"
+var name = "Juliet Walker"
 var responsibility = ''
-var linkedIn = "https://www.linkedin.com/in/christophmuellerdott/"
-var mailto = "mailto:christoph.muellerdott@orange.com"
+var linkedIn = "https://www.linkedin.com/in/juliet-walker-a738241"
+var mailto = "mailto:juliet.walker@orange.com"
 var titles = [
-    'Head of International Transformation',
+    'VP International Marketing',
     'Orange Business',
 ]
-var folderName = "christoph"
+var folderName = "juliet"
 
 var lightMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/light.pdf`
 var darkMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/dark.pdf`
