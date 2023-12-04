@@ -1,12 +1,12 @@
-var name = "Sandra Servieres"
+var name = "Juliet Walker"
 var responsibility = ''
-var linkedIn = "https://fr.linkedin.com/in/sandra-servieres-9579843a"
-var mailto = "mailto:sandra.servieres@orange.com"
+var linkedIn = "https://www.linkedin.com/in/juliet-walker-a738241"
+var mailto = "mailto:juliet.walker@orange.com"
 var titles = [
-    'Directrice Financière',
+    'VP International Marketing',
     'Orange Business',
 ]
-var folderName = "sandra"
+var folderName = "juliet"
 
 var lightMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/light.pdf`
 var darkMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/dark.pdf`
