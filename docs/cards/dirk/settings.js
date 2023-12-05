@@ -1,11 +1,12 @@
-var name = "François Fleutiaux"
+var name = "Dirk Naumann"
 var responsibility = ''
-var linkedIn = "https://www.linkedin.com/in/fran%C3%A7ois-fleutiaux-a841081/"
-var mailto = "mailto:francois.fleutiaux@orange.com"
+var linkedIn = "https://www.linkedin.com/in/dirk-naumann-2994b914/"
+var mailto = "mailto:dirk.naumann@orange.com"
 var titles = [
-    'CEO Orange Business France',
+    'Executive Vice President LRC & General Counsel',
+    'Orange Business',
 ]
-var folderName = "francois"
+var folderName = "dirk"
 
 var lightMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/light.pdf`
 var darkMode = `https://orangebusinessinternational.github.io/digital-business-card/cards/${folderName}/dark.pdf`
