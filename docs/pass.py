@@ -5,7 +5,7 @@ from applepassgenerator.models import Generic
 card_info = Generic()
 card_info.add_primary_field('name', 'Mona Ashour', 'Name')
 card_info.add_primary_field('works at', 'Orange Business', 'TheOrg')
-card_info.add_secondary_field('loc', 'EG', 'Country')
+card_info.add_secondary_field('loc', 'FR', 'Country')
 card_info.add_secondary_field('more-loc', 'Cairo', 'City')
 
 team_identifier = "43997268SR"
